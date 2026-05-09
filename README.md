@@ -47,6 +47,16 @@ $$\large\text{Co‑building Community}$$
 <br>
 
 <details>
+  <summary><b>OpenWork</b> - <i>Easiest OpenClaw-tool to deploy</i></summary>
+  <blockquote>
+    OpenWork is a front-end software by OpenCode.After downloading OpenWork, please purchase the API at the DeepSeek interface and connect it to OpenCode. If one-on-one deployment is required, you can contact the founder via email. He is at the NJAU-Binjiang Campus.
+    <br><br>
+    <a href="https://openworklabs.com/">🔗 <b>View OpenWork Web</b></a>
+    <a href="https://opencodex.cc/tutorials/">🔗 <b>View OpenWork Course</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Markdown</b> - <i>Markdown syntax reference &amp; guide</i></summary>
   <blockquote>
     Comprehensive Markdown syntax reference for writing well-formatted documents.
