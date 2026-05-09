@@ -4,9 +4,9 @@
 <br>
 
 <!-- TITLE with LaTeX for classical effect -->
-$$\Huge\ \text{🌾 Awesome Bio-Agri Skills}\ $$
+$$\Huge\ \text{🌾 Awesome Bio-Agri Skills (ABAS)}\ $$
 
-$$\large\text{Skills Community}$$
+$$\large\text{Co‑building Community}$$
 
 <br>
 
@@ -24,8 +24,8 @@ $$\large\text{Skills Community}$$
 <br>
 
 <!-- DESCRIPTION -->
-<h3>A curated list of awesome skills and resources for Bio-Agri research.</h3>
-<h3>Covering <b>agriculture</b>, <b>graziery</b>, and <b>biology</b> — built by students from <a href="https://www.njau.edu.cn">Nanjing Agricultural University</a>.</h3>
+<h4>A curated list of awesome skills and resources for Bio-Agri research.</h4>
+<h4>Built by students from <a href="https://www.njau.edu.cn">Nanjing Agricultural University</a>.</h4>
 
 <br>
 
