@@ -153,5 +153,5 @@ $$\large\text{Co‑building Community}$$
 <p align="center">
   📧 Contact: <a href="mailto:2234545188@qq.com">2234545188@qq.com</a>
   <br>
-  <sub>NJAU-USSR © 2026</sub>
+  <sub>NJAU-ABAS © 2026</sub>
 </p>
