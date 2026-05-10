@@ -125,8 +125,6 @@ $$\large\text{Co‑building Community}$$
   </blockquote>
 </details>
 
-https://github.com/xiaofenggan01/aigc-reduce
-
 <details>
   <summary><b>AIGC-reduce降低AI率工具</b> - <i>reduce AIGC level</i></summary>
   <blockquote>
