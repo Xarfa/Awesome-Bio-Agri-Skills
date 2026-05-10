@@ -117,11 +117,22 @@ $$\large\text{Co‑building Community}$$
 <br>
 
 <details>
-  <summary><b>PDF2zh</b> - <i>Efficient PDF paper translator</i></summary>
+  <summary><b>PDF2zh论文翻译器</b> - <i>Efficient PDF paper translator</i></summary>
   <blockquote>
     Excellent translation and typesetting. A branch related to life sciences is under development.
     <br><br>
     <a href="https://github.com/PDFMathTranslate/PDFMathTranslate">🔗 <b>View Resource</b></a>
+  </blockquote>
+</details>
+
+https://github.com/xiaofenggan01/aigc-reduce
+
+<details>
+  <summary><b>AIGC-reduce降低AI率工具</b> - <i>reduce AIGC level</i></summary>
+  <blockquote>
+    基于知网 3.0、万方、PaperPass 等主流检测器的技术原理，通过拆模板结构、打破均匀句式、嵌入操作细节、加入作者判断等方法，在保持学术语气的前提下让文本呈现「人类写作」的统计特征。
+    <br><br>
+    <a href="https://github.com/xiaofenggan01/aigc-reduce">🔗 <b>View Resource</b></a>
   </blockquote>
 </details>
 
