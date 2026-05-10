@@ -116,11 +116,14 @@ $$\large\text{Co‑building Community}$$
 <summary><strong>✍️ PAPER WRITING</strong></summary>
 <br>
 
-<blockquote>
-  <i>Workflows and guides for academic paper writing in life sciences.</i>
-  <br><br>
-  📌 <b>Coming soon</b> — contributions welcome.
-</blockquote>
+<details>
+  <summary><b>PDF2zh</b> - <i>Efficient PDF paper translator</i></summary>
+  <blockquote>
+    Excellent translation and typesetting. A branch related to life sciences is under development.
+    <br><br>
+    <a href="https://github.com/PDFMathTranslate/PDFMathTranslate">🔗 <b>View Resource</b></a>
+  </blockquote>
+</details>
 
 </details>
 
